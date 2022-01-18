@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"c:\\Users\\neels\\Desktop\\CPP\\test.py","tests":[{"id":1641899769467,"input":"3\n9\n5\n8","output":"80"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\neels\\Desktop\\CPP\\test.py","group":"local","local":true}

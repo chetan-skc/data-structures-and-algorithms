@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp",
+			"vector": "cpp",
+			"*.tcc": "cpp",
+			"list": "cpp",
+			"array": "cpp",
+			"bitset": "cpp",
+			"initializer_list": "cpp",
+			"regex": "cpp",
+			"utility": "cpp",
+			"valarray": "cpp",
+			"iomanip": "cpp",
+			"cmath": "cpp",
+			"string": "cpp",
+			"iosfwd": "cpp"
+		}
+	}
+}

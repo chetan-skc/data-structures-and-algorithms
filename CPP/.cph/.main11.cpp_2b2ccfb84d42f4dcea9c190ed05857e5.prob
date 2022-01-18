@@ -1,0 +1,1 @@
+{"name":"Local: main11","url":"c:\\Users\\neels\\Desktop\\CPP\\main11.cpp","tests":[{"id":1625930126241,"input":"11\na\nba\nab\nbac\nihfcbadeg\nz\naa\nca\nacb\nxyz\nddcba","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\neels\\Desktop\\CPP\\main11.cpp","group":"local","local":true}
