@@ -1,0 +1,1 @@
+{"name":"Local: Even Subset Xor","url":"c:\\Users\\neels\\Desktop\\data-structures-and-algorithms\\Even Subset Xor.cpp","tests":[{"id":1642606020646,"input":"2\n1\n2","output":"6\n3 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\neels\\Desktop\\data-structures-and-algorithms\\Even Subset Xor.cpp","group":"local","local":true}
